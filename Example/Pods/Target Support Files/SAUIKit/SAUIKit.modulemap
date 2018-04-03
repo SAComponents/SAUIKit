@@ -1,0 +1,6 @@
+framework module SAUIKit {
+  umbrella header "SAUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

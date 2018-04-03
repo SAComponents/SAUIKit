@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  SAUIKit
+//    
 //
 //  Created by SAComponents on 04/03/2018.
 //  Copyright (c) 2018 SAComponents. All rights reserved.
